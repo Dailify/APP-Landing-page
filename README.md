@@ -1,2 +1,2 @@
 # APP-Landing-page
-Using basic HTML and CSS
+Using basic HTML and CSS Stylesheet
